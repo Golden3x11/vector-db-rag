@@ -1,0 +1,6 @@
+pandas==1.5.3
+elasticsearch==8.10.1
+tqdm==4.66.2
+sentence-transformers==2.2.2
+langchain-text-splitters==0.0.1
+langchain-core==0.1.40
